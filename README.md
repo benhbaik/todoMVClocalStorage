@@ -1,4 +1,4 @@
-# todoMVCocalStorage
+# todoMVClocalStorage
 
 Create, edit, and delete todos.
 Toggle completed property on todos.
